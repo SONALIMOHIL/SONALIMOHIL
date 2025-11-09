@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SONALIMOHIL
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on PROJECTS
+- 👀 I’m interested in technology
 - 📫 Reach me via email mohilsonali@gmail.com
 
 <!---
