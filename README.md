@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SONALIMOHIL
+- 👋 Hi, I’m @Sonali Mohil
 - 👀 I’m interested in technology
 - 📫 Reach me via email mohilsonali@gmail.com
 
